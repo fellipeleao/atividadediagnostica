@@ -11,7 +11,7 @@ Exibe Lista com Todos os usuários do sistema.
     {
         "id": 1,
         "nome": "Teste",
-        "cpf": "399.234.848-23",
+        "cpf": "490.234.888-23",
         "email": "testePost@gmail.comX",
         "dataCadastro": "2020-02-18T14:31:36-03:00"
     },
@@ -25,7 +25,7 @@ Exibe Lista com Todos os usuários do sistema.
     {
         "id": 4,
         "nome": "TesteXYZ",
-        "cpf": "399.234.848-23",
+        "cpf": "490.001.123-23",
         "email": "testePost@gmail.comX",
         "dataCadastro": "2020-02-18T14:48:15-03:00"
     }
@@ -36,13 +36,27 @@ Exibe Lista com Todos os usuários do sistema.
 
 Exibe informação de um único usuário. O id do usuário deve ser informado na URL.
 
-### Response 200
+#### Response 200
+
+```json
+Here goes your json object definition
+```
 
 ## POST /api/usuario
 
 Cadastra um usuário no sistema.
 
-### Response 201
+#### Request Body
+
+```json
+Here goes your json object definition
+```
+
+#### Response 201
+
+```json
+Here goes your json object definition
+```
 
 ## PUT /api/usuario
 
