@@ -6,6 +6,10 @@ Exibe Lista com Todos os usuários do sistema.
 
 ### Response 200
 
+```json
+Here goes your json object definition
+```
+
 ## GET /api/usuario/{id}
 
 Exibe informação de um único usuário. O id do usuário deve ser informado na URL.
