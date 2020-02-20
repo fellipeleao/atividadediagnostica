@@ -249,7 +249,7 @@ Lista todos os registros de ponto de um determinado usuário (Mostra todas as en
         },
         {
             "id": 13,
-            "dataPonto": "2020-02-20T00:40:00-03:00",
+            "dataPonto": "2020-02-19T21:00:00-03:00",
             "tipoPonto": "entrada",
             "usuario": {
                 "id": 4,
@@ -260,6 +260,6 @@ Lista todos os registros de ponto de um determinado usuário (Mostra todas as en
             }
         }
     ],
-    "totalHorasTrabalhadas": 0
+    "totalHorasTrabalhadas": 3
 }
 ```
